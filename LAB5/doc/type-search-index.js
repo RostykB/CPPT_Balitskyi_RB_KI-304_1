@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI_304.Balitskyi.Lab5","l":"CtgCalculator"},{"p":"KI_304.Balitskyi.Lab5","l":"KI_304BalitskyiLab5"},{"p":"KI_304.Balitskyi.Lab5","l":"ResultFileManager"}];updateSearchResults();
