@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Balitskyi.Lab6","l":"Book"},{"p":"KI304.Balitskyi.Lab6","l":"KI_304BalitskyiLab6"},{"p":"KI304.Balitskyi.Lab6","l":"SingleLinkedList"},{"p":"KI304.Balitskyi.Lab6","l":"Student"}];updateSearchResults();
